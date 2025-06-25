@@ -104,6 +104,7 @@
     "recharts": "latest",
     "sass": "latest",
     "sass-embedded": "latest",
+    "some-module": "latest",
     "sonner": "latest",
     "sql.js": "latest",
     "sqlite3": "latest",
