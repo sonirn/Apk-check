@@ -49,7 +49,6 @@
     "@radix-ui/react-tooltip": "latest",
     "@replit/vite-plugin-cartographer": "latest",
     "@replit/vite-plugin-runtime-error-modal": "latest",
-    "@shared/schema": "latest",
     "@tailwindcss/typography": "latest",
     "@tanstack/react-query": "latest",
     "@tidbcloud/serverless": "latest",
